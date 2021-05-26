@@ -1,0 +1,13 @@
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.exe
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.deps.json
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.runtimeconfig.json
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.runtimeconfig.dev.json
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.dll
+D:\repository\PostProc\bin\Debug\netcoreapp3.1\PostProc.pdb
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.csprojAssemblyReference.cache
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.AssemblyInfoInputs.cache
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.AssemblyInfo.cs
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.csproj.CoreCompileInputs.cache
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.dll
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.pdb
+D:\repository\PostProc\obj\Debug\netcoreapp3.1\PostProc.genruntimeconfig.cache
